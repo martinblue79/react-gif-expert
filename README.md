@@ -1,5 +1,7 @@
 # React + Vite
 
+# Este es mi repositorio de proyecto gifExpert
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -8,3 +10,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # react-gif-expert
 # react_gif_expert
+

@@ -29,6 +29,8 @@ export const GifGrid = ({ category }) => {
   );
 };
 
+
+
 /**
  * Al crear un componente comenzamos con "rafc + tab" para crear la funcion de flecha con todos los elementos
  * Este componente sirve unicamente para devolver una categoria organizada como nosotros queramos
@@ -40,4 +42,5 @@ export const GifGrid = ({ category }) => {
  * el objeto en la propiedad "image"
  * {...image}: Esparse las propiedades del objeto y ya no es necesario mandarlas una por una
  * cada propiedad del objeto se convierte en una propiedad del componente
+ * Hola Hola
  */
